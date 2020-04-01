@@ -7,4 +7,4 @@ In this mission, the task is to zero out a friends debt on the balance file and 
 | 01       | (19) 145 |   32 |        4 | [XA](01-XA.exa) [XB](01-XB.exa) |
 | 02       |  (17) 73 |   30 |        4 | [XA](02-XA.exa) [XB](02-XB.exa) |
 
-![Solution 02](EXAPUNKS%20-%20Zebros%20Copies%2002.gif "Solution 02")
+![Solution 02](EXAPUNKS%20-%20Zebros%20Copies.gif "Solution 02")
