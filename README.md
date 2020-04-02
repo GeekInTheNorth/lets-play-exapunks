@@ -18,3 +18,4 @@ My solutions for the ExaPunks game.
 | [08 Zebros Copies](Missions/08%20Zebros%20Copies/readme.md) | 73 | 30 | 4 |
 | [09 SFCTA Highway Sign #4902](Missions/09%20SFCTA%20Highway%20Sign%20%234902/readme.md) | 167 | 12 | 1 |
 | [10 Unknown Network 1](Missions/10%20Unknown%20Network%201/readme.md) | 35 | 17 | 27 |
+| [11 UC Berkley](Missions/11%20UC%20Berkley/readme.md) | 176 | 38 | 7 |
