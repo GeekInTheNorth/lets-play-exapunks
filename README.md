@@ -24,3 +24,4 @@ My solutions for the ExaPunks game.
 | [10 Unknown Network 1](Missions/10%20Unknown%20Network%201/readme.md) | 35 | 17 | 27 |
 | [11 UC Berkley](Missions/11%20UC%20Berkley/readme.md) | 176 | 38 | 7 |
 | [12 Workhouse](Missions/12%20Workhouse/readme.md) | 531 | 28 | 2 |
+| [13 Equity First Bank](Missions/13%20Equity%20First%20Bank/readme.md) | 3024 | 17 | 10 |
