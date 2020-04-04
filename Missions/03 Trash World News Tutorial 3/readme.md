@@ -6,6 +6,6 @@ With the REPL command it's possible to do this with one EXA module with an incre
 
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
-| 01       |     10 |   14 |        4 | [XA](01-XA.exa) [XA](01-XB.exa) |
+| 01       |     10 |   14 |        4 | [XA](01-XA.exa) [XB](01-XB.exa) |
 
 ![Solution 01](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS.gif "Solution 01")
