@@ -27,3 +27,4 @@ My solutions for the ExaPunks game.
 | [13 Equity First Bank](Missions/13%20Equity%20First%20Bank/readme.md) | 1162 | 50 | 10 |
 | [14 Mitsuzen HDI-10 - Heart](Missions/14%20Mitsuzen%20HDI-10%20-%20Heart/readme.md) | 112 | 34 | 7 |
 | [15 Trash World News Unknown Context](Missions/15%20Trash%20World%20News%20Unknown%20Context/readme.md) | 566 | 27 | 4 |
+| [16 KGOG-TV](Missions/16%20KGOG-TV/readme.md) | 100 | 17 | 5 |
