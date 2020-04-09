@@ -29,3 +29,4 @@ My solutions for the ExaPunks game.
 | [15 Trash World News Unknown Context](Missions/15%20Trash%20World%20News%20Unknown%20Context/readme.md) | 566 | 27 | 4 |
 | [16 KGOG-TV](Missions/16%20KGOG-TV/readme.md) | 100 | 17 | 5 |
 | [17 TEC Redshift](Missions/17%20TEC%20Redshift/readme.md) | 5968 | 23 | 29 |
+| [18 Digital Library Project](Missions/18%20Digital%20Library%20Project/readme.md) | 345 | 37 | 87 |
