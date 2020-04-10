@@ -30,3 +30,4 @@ My solutions for the ExaPunks game.
 | [16 KGOG-TV](Missions/16%20KGOG-TV/readme.md) | 100 | 17 | 5 |
 | [17 TEC Redshift](Missions/17%20TEC%20Redshift/readme.md) | 5968 | 23 | 29 |
 | [18 Digital Library Project](Missions/18%20Digital%20Library%20Project/readme.md) | 345 | 37 | 87 |
+| [19 TEC EXA-Blaster Modem](Missions/19%20TEC%20EXA-Blaster%20Modem/readme.md) | 240 | 66 | 11 |
