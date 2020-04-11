@@ -31,3 +31,4 @@ My solutions for the ExaPunks game.
 | [17 TEC Redshift](Missions/17%20TEC%20Redshift/readme.md) | 5968 | 23 | 29 |
 | [18 Digital Library Project](Missions/18%20Digital%20Library%20Project/readme.md) | 345 | 37 | 87 |
 | [19 TEC EXA-Blaster Modem](Missions/19%20TEC%20EXA-Blaster%20Modem/readme.md) | 240 | 66 | 11 |
+| [20 Emerson's Guide - Streetsmarts GIS Database](Missions/20%20Emersons%20Guide/readme.md) | 49 | 49 | 6 |
