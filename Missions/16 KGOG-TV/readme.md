@@ -6,6 +6,6 @@ This is mission is re-runnable against the solutions made by Steam Friends.
 
 | Solution | Score | Cycles | Size | Activity | EXA Modules|
 |:---------|------:|-------:|-----:|---------:|------------|
-| 01       |   180 |    100 |   17 |        5 | [XA](01-XA.exa) |
+| 01       |   180 |    100 |   17 |        - | [XA](01-XA.exa) |
 
 ![Solution 01](EXAPUNKS%20-%20KGOG-TV.gif "Solution 01")
