@@ -34,3 +34,4 @@ My solutions for the ExaPunks game.
 | [20 Emerson's Guide - Streetsmarts GIS Database](Missions/20%20Emersons%20Guide/readme.md) | Mission | 49 | 49 | 6 |
 | [21 Valhalla](Missions/21%20Valhalla/readme.md) | Battle | 100 | 12 | - |
 | [22 Mitsuzen HDI-10 - Left Hand](Missions/22%20Mitsuzen%20HDI-10%20-%20Left%20Hand/readme.md) | Bio-Hack | 155 | 24 | 114 |
+| [23 Sawayama Wonderdisc](Missions/23%20Sawayama%20Wonderdisc/readme.md) | Game Console | 9130 | 54 | 63 |
