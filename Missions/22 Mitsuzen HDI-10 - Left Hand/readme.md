@@ -9,4 +9,4 @@ The scores below are based on 14 samples from each nerve transmission:
 | 01       |    285 |   60 |      633 | [XA](01-XA.exa) [XB](01-XB.exa) [XC](01-XC.exa) |
 | 02       |    155 |   24 |      114 | [XA](02-XA.exa) [XB](02-XB.exa) |
 
-![Solution 01](EXAPUNKS%20-%20Mitsuzen%20HDI-10.gif "Solution 01")
+![Solution 02](EXAPUNKS%20-%20Mitsuzen%20HDI-10.gif "Solution 02")

@@ -33,3 +33,4 @@ My solutions for the ExaPunks game.
 | [19 TEC EXA-Blaster Modem](Missions/19%20TEC%20EXA-Blaster%20Modem/readme.md) | Mission | 240 | 66 | 11 |
 | [20 Emerson's Guide - Streetsmarts GIS Database](Missions/20%20Emersons%20Guide/readme.md) | Mission | 49 | 49 | 6 |
 | [21 Valhalla](Missions/21%20Valhalla/readme.md) | Battle | 100 | 12 | - |
+| [22 Mitsuzen HDI-10 - Left Hand](Missions/22%20Mitsuzen%20HDI-10%20-%20Left%20Hand/readme.md) | Bio-Hack | 155 | 24 | 114 |
