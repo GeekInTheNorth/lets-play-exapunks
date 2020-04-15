@@ -36,3 +36,4 @@ My solutions for the ExaPunks game.
 | [22 Mitsuzen HDI-10 - Left Hand](Missions/22%20Mitsuzen%20HDI-10%20-%20Left%20Hand/readme.md) | Bio-Hack | 155 | 24 | 114 |
 | [23 Sawayama Wonderdisc](Missions/23%20Sawayama%20Wonderdisc/readme.md) | Game Console | 9130 | 54 | 63 |
 | [24 Alliance Power And Light](Missions/24%20Alliance%20Power%20And%20Light/readme.md) | Mission | 41 | 30 | 44 |
+| [25 Deadlock's Domain](Missions/25%20Deadlocks%20Domain/readme.md) | Battle | 100 | 27 | - |
