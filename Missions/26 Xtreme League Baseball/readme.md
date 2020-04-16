@@ -9,5 +9,6 @@ Each player's file consists of their name and each of their stats in the order t
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
 | 01       |    385 |   71 |       3 | [XA](01-XA.exa) [XB](01-XB.exa) |
+| 02       |    246 |   69 |       4 | [XA](02-XA.exa) [XB](02-XB.exa) [XC](02-XC.exa) |
 
-![Solution 01](EXAPUNKS%20-%20Xtreme%20League%20Baseball.gif "Solution 01")
+![Solution 02](EXAPUNKS%20-%20Xtreme%20League%20Baseball.gif "Solution 02")
