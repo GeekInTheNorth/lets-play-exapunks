@@ -37,3 +37,4 @@ My solutions for the ExaPunks game.
 | [23 Sawayama Wonderdisc](Missions/23%20Sawayama%20Wonderdisc/readme.md) | Game Console | 9130 | 54 | 63 |
 | [24 Alliance Power And Light](Missions/24%20Alliance%20Power%20And%20Light/readme.md) | Mission | 41 | 30 | 44 |
 | [25 Deadlock's Domain](Missions/25%20Deadlocks%20Domain/readme.md) | Battle | 100 | 27 | - |
+| [26 Xtreme League Baseball](Missions/26%20Xtreme%20League%20Baseball/readme.md) | Mission | 385 | 71 | 3 |
