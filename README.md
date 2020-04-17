@@ -38,3 +38,4 @@ My solutions for the ExaPunks game.
 | [24 Alliance Power And Light](Missions/24%20Alliance%20Power%20And%20Light/readme.md) | Mission | 41 | 30 | 44 |
 | [25 Deadlock's Domain](Missions/25%20Deadlocks%20Domain/readme.md) | Battle | 100 | 27 | - |
 | [26 Xtreme League Baseball](Missions/26%20Xtreme%20League%20Baseball/readme.md) | Mission | 246 | 69 | 4 |
+| [27 King's Ransom Online](Missions/27%20Kings%20Ransom%20Online/readme.md) | Mission | 84 | 53 | 25 |
