@@ -8,6 +8,6 @@ In this missing, the hacker must copy a new account file and register it with th
 
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
-| 01       |    215 |   52 |        8 | [XA](01-XA.exa) [XB](01-XB.exa) [XC](01-XC.exa) |
+| 01       |    214 |   51 |        8 | [XA](01-XA.exa) [XB](01-XB.exa) [XC](01-XC.exa) |
 
 ![Solution 01](EXAPUNKS%20-%20Equity%20First%20Bank.gif "Solution 01")
