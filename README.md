@@ -40,3 +40,4 @@ My solutions for the ExaPunks game.
 | [26 Xtreme League Baseball](Missions/26%20Xtreme%20League%20Baseball/readme.md) | Mission | 246 | 69 | 4 |
 | [27 King's Ransom Online](Missions/27%20Kings%20Ransom%20Online/readme.md) | Mission | 84 | 53 | 25 |
 | [28 KGOG-TV 2](Missions/28%20KGOG-TV%202/readme.md) | Mission | 367 | 87 | 8 |
+| [29 Equity First Bank 2](Missions/29%20Equity%20First%20Bank%202/readme.md) | Mission | 215 | 52 | 8 |
