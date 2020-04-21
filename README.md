@@ -42,3 +42,4 @@ My solutions for the ExaPunks game.
 | [28 KGOG-TV 2](Missions/28%20KGOG-TV%202/readme.md) | Mission | 367 | 87 | 8 |
 | [29 Equity First Bank 2](Missions/29%20Equity%20First%20Bank%202/readme.md) | Mission | 214 | 51 | 8 |
 | [30 The Wormhole](Missions/30%20The%20Wormhole/readme.md) | Battle | 100 | 20 | - |
+| [31 TEC EXA-Blaster Modem 2](Missions/31%20TEC%20EXA-Blaster%20Modem%202/readme.md) | Mission | 1145 | 65 | 10 |
