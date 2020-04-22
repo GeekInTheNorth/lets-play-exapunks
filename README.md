@@ -43,3 +43,4 @@ My solutions for the ExaPunks game.
 | [29 Equity First Bank 2](Missions/29%20Equity%20First%20Bank%202/readme.md) | Mission | 214 | 51 | 8 |
 | [30 The Wormhole](Missions/30%20The%20Wormhole/readme.md) | Battle | 100 | 20 | - |
 | [31 TEC EXA-Blaster Modem 2](Missions/31%20TEC%20EXA-Blaster%20Modem%202/readme.md) | Mission | 1145 | 65 | 10 |
+| [32 Last Stop Snaxnet 2](Missions/32%20Last%20Stop%20Snaxnet%202/readme.md) | Mission | 191 | 61 | 22 |
