@@ -44,3 +44,4 @@ My solutions for the ExaPunks game.
 | [30 The Wormhole](Missions/30%20The%20Wormhole/readme.md) | Battle | 100 | 20 | - |
 | [31 TEC EXA-Blaster Modem 2](Missions/31%20TEC%20EXA-Blaster%20Modem%202/readme.md) | Mission | 1145 | 65 | 10 |
 | [32 Last Stop Snaxnet 2](Missions/32%20Last%20Stop%20Snaxnet%202/readme.md) | Mission | 191 | 61 | 22 |
+| [33 Mitsuzen HDI-10 - Visual Cortex](Missions/33%20Mitsuzen%20HDI-10%20-%20Visual%20Cortex/readme.md) | Bio-Hack | 902 | 48 | 304 |
