@@ -46,3 +46,4 @@ My solutions for the ExaPunks game.
 | [32 Last Stop Snaxnet 2](Missions/32%20Last%20Stop%20Snaxnet%202/readme.md) | Mission | 191 | 61 | 22 |
 | [33 Mitsuzen HDI-10 - Visual Cortex](Missions/33%20Mitsuzen%20HDI-10%20-%20Visual%20Cortex/readme.md) | Bio-Hack | 424 | 38 | 12 |
 | [34 Holman Dynamics](Missions/34%20Holman%20Dynamics/readme.md) | Mission | 6082 | 76 | 10 |
+| [35 US Government FEMA Genetic Database](Missions/35%20FEMA%20Genetic%20Database/readme.md) | Mission | 889 | 131 | 44 |
