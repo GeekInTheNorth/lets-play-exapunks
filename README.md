@@ -48,3 +48,4 @@ My solutions for the ExaPunks game.
 | [34 Holman Dynamics](Missions/34%20Holman%20Dynamics/readme.md) | Mission | 6082 | 76 | 10 |
 | [35 US Government FEMA Genetic Database](Missions/35%20FEMA%20Genetic%20Database/readme.md) | Mission | 889 | 131 | 44 |
 | [36 Unknown Network 2](Missions/36%20Unknown%20Network%202/readme.md) | Mission | 108 | 75 | 53 |
+| [37 TEC EXA-Blaster Modem 3](Missions/37%20TEC%20EXA-Blaster%20Modem%203/readme.md) | Mission | 685 | 67 | 27 |
