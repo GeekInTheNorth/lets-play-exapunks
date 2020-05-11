@@ -6,7 +6,7 @@ In this solution, each pager is given the message in turn.  In a second wave of 
 
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
-| 01       |    685 |   67 |       27 | [XA](01-XA.exa) [XB](01-XB.exa) |
+| 01       |    589 |   64 |       27 | [XA](01-XA.exa) [XB](01-XB.exa) |
 
 
 ![Solution 01](EXAPUNKS%20-%20TEC%20EXA-Blaster%20Modem.gif "Solution 01")
