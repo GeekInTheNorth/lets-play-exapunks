@@ -8,6 +8,6 @@ The main character has the Phage which is causing their body to degrade. In this
 
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
-| 01       |   3126 |   48 |      304 | [XA](01-XA.exa) [XB](01-XB.exa) |
+| 01       |   3126 |   88 |       19 | [XA](01-XA.exa) [XB](01-XB.exa) |
 
 ![Solution 01](EXAPUNKS%20-%20Mitsuzen%20HDI-10.gif "Solution 01")

@@ -49,3 +49,4 @@ My solutions for the ExaPunks game.
 | [35 US Government FEMA Genetic Database](Missions/35%20FEMA%20Genetic%20Database/readme.md) | Mission | 889 | 131 | 44 |
 | [36 Unknown Network 2](Missions/36%20Unknown%20Network%202/readme.md) | Mission | 108 | 75 | 53 |
 | [37 TEC EXA-Blaster Modem 3](Missions/37%20TEC%20EXA-Blaster%20Modem%203/readme.md) | Mission | 589 | 64 | 27 |
+| [38 Mitsuzen HDI-10 - Central Cortex](Missions/38%20Mitsuzen%20HDI-10%20-%20Cerebral%20Cortex/readme.md) | Bio-Hack | 3126 |   88 | 19 |
