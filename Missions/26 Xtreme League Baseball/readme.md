@@ -13,4 +13,4 @@ Each player's file consists of their name and each of their stats in the order t
 
 ![Solution 02](EXAPUNKS%20-%20Xtreme%20League%20Baseball.gif "Solution 02")
 
-[Achievement EXA](Achievement.exa) Steam Achievement - Score a home run.  This EXA will add 2 cycles to solution 02, and will cycle through the hosts that look suspiciously like a baseball pitch.
+[Achievement EXA](Achievement.exa) Steam Achievement - HOME_RUN.  This EXA will add 2 cycles to solution 02, and will cycle through the hosts that look suspiciously like a baseball pitch.

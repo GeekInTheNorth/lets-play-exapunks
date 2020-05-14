@@ -8,3 +8,5 @@ In this mission, the task is to zero out a friends debt on the balance file and 
 | 02       |  (17) 73 |   30 |        4 | [XA](02-XA.exa) [XB](02-XB.exa) |
 
 ![Solution 02](EXAPUNKS%20-%20Zebros%20Copies.gif "Solution 02")
+
+[Achievement EXA](Achievement.exa) Steam Achievement - TONER_LOW.  This EXA will cause the mission to fail as soon as soon as the first copy is made. This EXA replicates itself onto each printer and recursively triggers the copy function until there is no toner.
