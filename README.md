@@ -50,3 +50,9 @@ My solutions for the ExaPunks game.
 | [36 Unknown Network 2](Missions/36%20Unknown%20Network%202/readme.md) | Mission | 108 | 75 | 53 |
 | [37 TEC EXA-Blaster Modem 3](Missions/37%20TEC%20EXA-Blaster%20Modem%203/readme.md) | Mission | 589 | 64 | 27 |
 | [38 Mitsuzen HDI-10 - Central Cortex](Missions/38%20Mitsuzen%20HDI-10%20-%20Cerebral%20Cortex/readme.md) | Bio-Hack | 3126 |   88 | 19 |
+
+## Bonus Missions
+
+| Mission | Type | Cycles | Size | Activity |
+|---------|------|-------:|-----:|---------:|
+| [40 Motor Vehicle Administration](Missions/40%20Motor%20Vehicle%20Administration/readme.md) | Bonus | 834 | 100 | 22 |
