@@ -55,4 +55,5 @@ My solutions for the ExaPunks game.
 
 | Mission | Type | Cycles | Size | Activity |
 |---------|------|-------:|-----:|---------:|
+| [39 Bloodlust Online](Missions/39%20Bloodlust%20Online/readme.md) | Bonus | 206 | 97 | 18 |
 | [40 Motor Vehicle Administration](Missions/40%20Motor%20Vehicle%20Administration/readme.md) | Bonus | 834 | 100 | 22 |
