@@ -7,5 +7,6 @@ E = ((A + B) * C) - D
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
 | 01       |      8 |    8 |        2 | [XA](01-XA.exa) |
+| 02       |      7 |    7 |        2 | [XA](02-XA.exa) |
 
-![Solution 01](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS.gif "Solution 01")
+![Solution 02](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS.gif "Solution 02")

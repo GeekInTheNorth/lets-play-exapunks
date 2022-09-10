@@ -13,7 +13,7 @@ My solutions for the ExaPunks game.
 | Mission | Type | Cycles | Size | Activity |
 |---------|------|-------:|-----:|---------:|
 | [01 Trash World News Tutorial 1](Missions/01%20Trash%20World%20News%20Tutorial%201/readme.md) | Training | 4 | 4 | 2 |
-| [02 Trash World News Tutorial 2](Missions/02%20Trash%20World%20News%20Tutorial%202/readme.md) | Training | 8 | 8 | 2 |
+| [02 Trash World News Tutorial 2](Missions/02%20Trash%20World%20News%20Tutorial%202/readme.md) | Training | 7 | 7 | 2 |
 | [03 Trash World News Tutorial 3](Missions/03%20Trash%20World%20News%20Tutorial%203/readme.md) | Training | 10 | 14 | 4 |
 | [04 Trash World News Tutorial 4](Missions/04%20Trash%20World%20News%20Tutorial%204/readme.md) | Training | 404 | 13 | 2 |
 | [05 Euclids Pizza](Missions/05%20Euclids%20Pizza/readme.md) | Mission | 14 | 18 | 1 |
