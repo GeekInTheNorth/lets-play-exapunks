@@ -57,3 +57,4 @@ My solutions for the ExaPunks game.
 |---------|------|-------:|-----:|---------:|
 | [39 Bloodlust Online](Missions/39%20Bloodlust%20Online/readme.md) | Bonus | 206 | 97 | 18 |
 | [40 Motor Vehicle Administration](Missions/40%20Motor%20Vehicle%20Administration/readme.md) | Bonus | 834 | 100 | 22 |
+| [41 Cybermyth Studios](Missions/41%20Cybermyth%20Studios/readme.md) | Bonus | 931 | 149 | 12 |
