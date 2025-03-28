@@ -8,5 +8,6 @@ E = ((A + B) * C) - D
 |:---------|-------:|-----:|---------:|------------|
 | 01       |      8 |    8 |        2 | [XA](01-XA.exa) |
 | 02       |      7 |    7 |        2 | [XA](02-XA.exa) |
+| 03       |      7 |    6 |        2 | [XA](03-XA.exa) |
 
-![Solution 02](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS.gif "Solution 02")
+![Solution 03](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS.gif "Solution 03")
