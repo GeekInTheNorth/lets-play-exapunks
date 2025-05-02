@@ -6,7 +6,65 @@ With the REPL command it's possible to do this with one EXA module with an incre
 
 | Solution | Cycles | Size | Activity | EXA Modules|
 |:---------|-------:|-----:|---------:|------------|
-| 01       |     10 |   14 |        4 | [XA](01-XA.exa) [XB](01-XB.exa) |
-| 02       |      9 |   13 |        4 | [XA](02-XA.exa) [XB](02-XB.exa) [XC](02-XC.exa) |
+| 01       |     10 |   14 |        4 | [XA](#01-xa) [XB](#01-xb) |
+| 02       |      9 |   13 |        4 | [XA](#02-xa) [XB](#02-xb) [XC](#02-xc) |
 
 ![Solution 01](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS.gif "Solution 01")
+
+## Solution 01
+
+### 01 XA
+
+```
+LINK 800
+LINK 799
+GRAB 199
+COPY F M
+COPY F M
+WIPE
+HALT
+```
+
+### 01 XB
+
+```
+LINK 800
+LINK 800
+MAKE
+COPY M X
+COPY M F
+COPY X F
+HALT
+```
+
+## Solution 02
+
+### 02 XA
+
+```
+LINK 800
+LINK 799
+GRAB 199
+COPY F M
+COPY F M
+WIPE
+```
+
+### 02 XA
+
+```
+LINK 800
+LINK 800
+MAKE
+COPY M X
+COPY M F
+COPY X F
+```
+
+### 02 XC
+
+This EXA only exists to trigger a delay and synchronize EXA A and EXA B
+
+```
+HALT
+```
