@@ -16,10 +16,10 @@ My solutions for the ExaPunks game.
 | [02 Trash World News Tutorial 2](Missions/02%20Trash%20World%20News%20Tutorial%202/readme.md) | Training | 7 | 6 | 2 |
 | [03 Trash World News Tutorial 3](Missions/03%20Trash%20World%20News%20Tutorial%203/readme.md) | Training | 9 | 13 | 4 |
 | [04 Trash World News Tutorial 4](Missions/04%20Trash%20World%20News%20Tutorial%204/readme.md) | Training | 307 | 10 | 2 |
-| [05 Euclids Pizza](Missions/05%20Euclids%20Pizza/readme.md) | Mission | 14 | 18 | 1 |
+| [05 Euclids Pizza](Missions/05%20Euclids%20Pizza/readme.md) | Mission | 13 | 14 | 1 |
 | [06 Mitsuzen HDI-10 - Left Arm](Missions/06%20Mitsuzen%20HDI-10%20-%20Left%20Arm/readme.md) | Bio-Hack | 46 | 21 | 6 |
-| [07 Last Stop Snaxnet](Missions/07%20Last%20Stop%20Snaxnet/readme.md) | Mission | 32 | 13 | 2 |
-| [08 Zebros Copies](Missions/08%20Zebros%20Copies/readme.md) | Mission | 73 | 30 | 4 |
+| [07 Last Stop Snaxnet](Missions/07%20Last%20Stop%20Snaxnet/readme.md) | Mission | 31 | 11 | 2 |
+| [08 Zebros Copies](Missions/08%20Zebros%20Copies/readme.md) | Mission | 73 | 27 | 4 |
 | [09 SFCTA Highway Sign #4902](Missions/09%20SFCTA%20Highway%20Sign%20%234902/readme.md) | Mission | 167 | 12 | 1 |
 | [10 Unknown Network 1](Missions/10%20Unknown%20Network%201/readme.md) | Mission | 35 | 17 | 27 |
 | [11 UC Berkley](Missions/11%20UC%20Berkley/readme.md) | Mission | 176 | 38 | 7 |
