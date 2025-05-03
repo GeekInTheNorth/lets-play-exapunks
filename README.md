@@ -21,7 +21,7 @@ My solutions for the ExaPunks game.
 | [07 Last Stop Snaxnet](Missions/07%20Last%20Stop%20Snaxnet/readme.md) | Mission | 31 | 11 | 2 |
 | [08 Zebros Copies](Missions/08%20Zebros%20Copies/readme.md) | Mission | 73 | 27 | 4 |
 | [09 SFCTA Highway Sign #4902](Missions/09%20SFCTA%20Highway%20Sign%20%234902/readme.md) | Mission | 167 | 12 | 1 |
-| [10 Unknown Network 1](Missions/10%20Unknown%20Network%201/readme.md) | Mission | 35 | 17 | 27 |
+| [10 Unknown Network 1](Missions/10%20Unknown%20Network%201/readme.md) | Mission | 24 | 38 | 28 |
 | [11 UC Berkley](Missions/11%20UC%20Berkley/readme.md) | Mission | 176 | 38 | 7 |
 | [12 Workhouse](Missions/12%20Workhouse/readme.md) | Mission | 531 | 28 | 2 |
 | [13 Equity First Bank](Missions/13%20Equity%20First%20Bank/readme.md) | Mission | 1162 | 50 | 10 |

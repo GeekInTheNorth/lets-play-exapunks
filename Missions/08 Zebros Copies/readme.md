@@ -6,7 +6,8 @@ In this mission, the task is to zero out a friends debt on the balance file and 
 |:---------|---------:|-----:|---------:|------------|
 | 01       |      145 |   32 |        4 | [XA](#01-xa) [XB](#01-xb) |
 | 02       |       73 |   30 |        4 | [XA](#02-xa) [XB](#02-xb) |
-| 03       |       73 |   27 |        4 | [XA](#03-xa) [XB](#03-xb) [XC](#03-xc)  |
+| 03       |       73 |   27 |        4 | [XA](#03-xa) [XB](#03-xb) [XC](#03-xc) |
+| 04       |       72 |   31 |        2 | [XA](#03-xa) [XB](#03-xb) |
 
 ![Solution 03](EXAPUNKS%20-%20Zebros%20Copies.gif "Solution 03")
 
@@ -149,6 +150,53 @@ SEEK 9999
 @REP 4
 COPY M F
 @END
+```
+
+## Solution 04
+
+This solution aims to reduce the activity (number of times an EXA has moved between servers) by using the REPL function which does not trigger an activity.  This does however come at a compromise to the best size but does improve overall cycles slightly.
+
+### 04 XA
+
+```
+LINK 800
+REPL GETDATE
+GRAB 200
+COPY M X
+MARK LOOP
+TEST F = X
+TJMP PAY
+SEEK 2
+JUMP LOOP
+
+MARK PAY
+COPY X M
+COPY F M
+COPY F M
+SEEK -2
+COPY 0 F
+COPY 0 F
+HALT
+
+MARK GETDATE
+REPL WRITER
+LINK 801
+COPY #DATE M
+HALT
+
+MARK WRITER
+GRAB 201
+SEEK 9999
+@REP 4
+COPY M F
+@END
+```
+
+### 04 XB
+
+```
+GRAB 300
+COPY F M
 ```
 
 ## Steam Achievement
